@@ -746,9 +746,9 @@ const projects = [
     githubUrl: "https://github.com/username/ecommerce-platform",
   },
   {
-    title: "Task Management App",
+    title: "Digital Restaurant Website",
     description:
-      "Collaborative task management application with real-time updates, team collaboration, and advanced filtering.",
+      "A modern restaurant website with a digital menu, advanced kitchen and admin dashboards to manage orders and the entire operation in one place.",
     icon: "📋",
     image: "/images/task-management-demo.png",
     tags: ["React", "Node.js", "Socket.io", "MongoDB"],
@@ -756,9 +756,9 @@ const projects = [
     githubUrl: "https://github.com/username/task-manager",
   },
   {
-    title: "Fitness Tracking Mobile App",
+    title: "Travel Planner App",
     description:
-      "Cross-platform mobile app for fitness tracking with workout plans, progress monitoring, and social features.",
+      "A smart travel planner with real-time weather, day-to-day itineraries, packing lists, and hotel recommendations—all in one app.",
     icon: "💪",
     image: "/images/fitness-app-demo.png",
     tags: ["React Native", "Firebase", "Redux", "Charts"],
@@ -766,8 +766,8 @@ const projects = [
     githubUrl: "https://github.com/username/fitness-tracker",
   },
   {
-    title: "AI-Powered Analytics Dashboard",
-    description: "Advanced analytics dashboard with AI-driven insights, data visualization, and predictive analytics.",
+    title: "Hotels Rate comparison app",
+    description: "An app that helps hotels compare their room rates with local competitors to stay competitive and optimize pricing..",
     icon: "📊",
     image: "/images/analytics-demo.png",
     tags: ["Vue.js", "Python", "TensorFlow", "D3.js"],
