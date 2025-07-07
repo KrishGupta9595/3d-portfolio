@@ -741,8 +741,8 @@ const projects = [
       "An advanced lending tracker made with react and next.js to record money given to friends and family, with date, time, and smart management features.",
     icon: "🛒",
     image: "/images/ecommerce-demo.png",
-    tags: ["Next.js", "TypeScript", "Stripe", "Prisma"],
-    demoUrl: "https://ecommerce-demo.vercel.app",
+    tags: ["Next.js", "TypeScript", "React"],
+    demoUrl: "https://debt-mate.vercel.app/",
     githubUrl: "https://github.com/username/ecommerce-platform",
   },
   {
