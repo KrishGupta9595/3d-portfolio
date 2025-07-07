@@ -736,9 +736,9 @@ function ContactForm() {
 // Data
 const projects = [
   {
-    title: "E-Commerce Platform",
+    title: "Lending Tracker",
     description:
-      "A modern e-commerce platform built with Next.js, featuring real-time inventory, payment processing, and admin dashboard.",
+      "An advanced lending tracker made with react and next.js to record money given to friends and family, with date, time, and smart management features.",
     icon: "🛒",
     image: "/images/ecommerce-demo.png",
     tags: ["Next.js", "TypeScript", "Stripe", "Prisma"],
